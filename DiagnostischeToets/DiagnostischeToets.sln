@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerConsole", "ConsoleApplication1\PokerConsole.csproj", "{EBA4E1D8-F67D-4B63-A8FE-878D5106879D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnostischeToets", "DiagnostischeToets\DiagnostischeToets.csproj", "{D9DF0148-2F10-4D7C-AAEC-1029CD146631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EBA4E1D8-F67D-4B63-A8FE-878D5106879D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBA4E1D8-F67D-4B63-A8FE-878D5106879D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBA4E1D8-F67D-4B63-A8FE-878D5106879D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBA4E1D8-F67D-4B63-A8FE-878D5106879D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DF0148-2F10-4D7C-AAEC-1029CD146631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DF0148-2F10-4D7C-AAEC-1029CD146631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DF0148-2F10-4D7C-AAEC-1029CD146631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DF0148-2F10-4D7C-AAEC-1029CD146631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
